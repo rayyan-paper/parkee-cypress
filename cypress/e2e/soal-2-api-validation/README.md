@@ -23,7 +23,7 @@ The testing strategy includes:
 ## 🐞 Bug Report
 Detailed bug findings are documented in the Excel file below:
 
-👉 **[View Bug Report (Excel)](./bug-report.xlsx)**
+👉 **[View Bug Report (Excel)](https://docs.google.com/spreadsheets/d/13S-endSHMnO0T8A7G49awsvJ-lIYp9Wz/edit?usp=drive_link&ouid=110050977467268519485&rtpof=true&sd=true)**
 
 The report includes:
 - Steps to reproduce
@@ -35,7 +35,7 @@ The report includes:
 ## 🎥 Test Execution Video
 A demonstration of the automated test execution can be accessed here:
 
-👉 **[Watch Test Execution Video](./test-execution.mp4)**
+👉 **[Watch Test Execution Video](https://drive.google.com/file/d/1rxeO0zBMImdT0Vy7PsT2MWxJ9D9JFL8C/view?usp=drive_link)**
 
 ---
 
@@ -77,3 +77,9 @@ While the core functionality of the system works as expected, several improvemen
 ## 🛠 Tech Stack
 - Cypress
 - JavaScript
+
+---
+
+## 👨‍💻 Author
+
+Rayyan Dzaki

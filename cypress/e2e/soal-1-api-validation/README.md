@@ -16,14 +16,7 @@ The goal of this test is to validate that the API response meets specific busine
 
 📺 **Test Execution Recording:**
 
-> *Add your demo video here (e.g., Google Drive / YouTube / Loom link)*
-
-Example:
-
-```md
-https://your-video-link.com
-```
-
+👉 **[Watch Test Execution Video](https://drive.google.com/file/d/1Ew-AeHj8jRlXNnUO_soZ65n5RLH-HQSA/view?usp=drive_link)**
 ---
 
 ## ✅ Test Cases
@@ -70,8 +63,7 @@ https://your-video-link.com
 ### 1. Clone repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone <https://github.com/rayyan-paper/parkee-cypress/tree/main/cypress/e2e/soal-1-api-validation>
 ```
 
 ### 2. Install dependencies
