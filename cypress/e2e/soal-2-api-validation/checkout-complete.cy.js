@@ -27,7 +27,7 @@ describe('Checkout Complete Page', () => {
     }
 
     // =========================
-    // ✅ POSITIVE TEST CASE
+    // POSITIVE TEST CASE
     // =========================
     it('Positive - Order is successfully completed', () => {
         completeCheckout()
@@ -37,7 +37,7 @@ describe('Checkout Complete Page', () => {
     })
 
     // =========================
-    // ❌ NEGATIVE TEST CASE
+    // NEGATIVE TEST CASE
     // =========================
     it('Negative - User cannot access complete page directly', () => {
         cy.visit('https://www.saucedemo.com/checkout-complete.html', {
@@ -49,7 +49,7 @@ describe('Checkout Complete Page', () => {
     })
 
     // =========================
-    // 🔥 EDGE CASE - BACK HOME
+    // EDGE CASE - BACK HOME
     // =========================
     it('Edge - Back Home button redirects to inventory page', () => {
         completeCheckout()
@@ -60,7 +60,7 @@ describe('Checkout Complete Page', () => {
     })
 
     // =========================
-    // 🔥 EDGE CASE - REFRESH PAGE
+    // EDGE CASE - REFRESH PAGE
     // =========================
     it('Edge - Refresh keeps user on complete page', () => {
         completeCheckout()
